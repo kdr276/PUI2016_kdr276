@@ -1,7 +1,7 @@
 
 ## Assignment one finishing lab:
 
-Worked with ____ to the exercise to fork etc.
+Worked with Matt Sloane to complete the fork neighbor's repo exercise from his gittest_ms9548 repository
 
 
 ##Assignment two setting up the environment:
