@@ -13,4 +13,4 @@ I confirmed the variable and alias saved in .bashrc by ensuring I was in my home
 ![Screenshot 1 Assignment 2: .bashrc](HW1_screenshot1.png)
 
 I opened a new terminal tab to log back into computer and confirmed the variable and alias saved and still executed as desired. Typing the commands pwd, pui2016, pwd into the terminal resulted in the below screenshot:
-![Screenshot 2 Assignment 2: commands](HW2_screenshot2.png)
+![Screenshot 2 Assignment 2: commands](HW1_screenshot2.png)
