@@ -2,7 +2,8 @@
 ## Assignment One - Finishing Lab:
 
 Worked with Matt Sloane to complete the fork neighbor's repo exercise from his gittest_ms9548 repository
-Worked with Will Xia to complete the fork neigbor's repo exercise from his gittest_wbx200 repository'
+
+Worked with Will Xia to complete the fork neigbor's repo exercise from his gittest_wbx200 repository
 
 
 ##Assignment Two - Setting Up the Environment:
