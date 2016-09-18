@@ -13,6 +13,6 @@ Written and tested in Python 2.7 - imported print_function compatibility with Py
 
 ## Assignment Three - Read CSV File With Pandas
 Chose to use Emergency Response Incident .csv information from the datahub site. Confirmed os.getenf('DFDATA') pointed to correct data facility location
-Difficulty opening the .csv file from this point with pandas, the DFDATA + datset location (/pasr-j7fb) did not point the to .csv file which was located at another url (https://data.cityofnewyork.us/resource/pasr-j7fb.csv) -- to return and rework pulling of the file --
+Difficulty opening the .csv file from this point with pandas, the DFDATA + datset location (/pasr-j7fb) did not point to .csv file which was located at another url (https://data.cityofnewyork.us/resource/pasr-j7fb.csv) -- to return and rework pulling of the file --
 Used the .head() command to pull only the first 5 lines of the file and the .drop command to remove the all column headers except for two numerical - the longitude and lititue for each incident.
 Plotted the cooridnate information using plot.scatter
