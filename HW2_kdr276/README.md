@@ -12,6 +12,7 @@ Homework help group includes Will Xia, Marc Toneatto, Matt Slone, Ozgur Akkas - 
 ## Assignment Two - Next Stop information
 
 For this assignment I used the code I created for assignment one as a base to edit and build upon. I used a for loop to iterate over the values desired for the .csv file. Code used to generate the .csv file was found at [http://michelleminkoff.com/2011/02/01/making-the-structured-usable-transform-json-into-a-csv/](http://michelleminkoff.com/2011/02/01/making-the-structured-usable-transform-json-into-a-csv/) which I accessed on Sept 19th, 2016. I replaced my dictionary keys with those in the example I found and ran the output to a test file on multiple bus lines.
+Confirmed output to file was corrected and added if/else statements for 'Stop Name' and 'Stop Status' categories so that if the entry was blank 'N/A' would be the output added to the information fields
 
 ## Assignment Three - Read CSV File With Pandas
 Chose to use Emergency Response Incident .csv information from the datahub site. Confirmed os.getenf('DFDATA') pointed to correct data facility location
