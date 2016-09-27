@@ -2,6 +2,9 @@
 
 ## Assignment One - Demonstrating Central Limit Theorem:
 
+Using the example done in class to plot a chi squared distribution I changed the functions according to the desired type of distribution. I chose to use 100 as the mean for all distributions and chose the uniform distribution as my 5th distribution. Utilizing the scipy.org resource and Wikipedia to compare function parameters along with the distribution means, I applied the appropriate parameters within each function to ensure each mean was 100. All of the scatter plots and histograms displayed show that the distribution of means are normally distributed. If the same analysis were run with even more samples this normal distribution would be more apparent. 
+
+
 
 ## Assignment Two - CitiBike Data Data-Driven Inference:
 
