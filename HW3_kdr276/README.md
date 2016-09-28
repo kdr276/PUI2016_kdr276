@@ -8,6 +8,14 @@ Using the example done in class to plot a chi squared distribution I changed the
 
 ## Assignment Two - CitiBike Data Data-Driven Inference:
 
+Bailey Griswald shared the below link to help in downloading the date directly into the notebook from the Citi Bike data
+[https://discuss.analyticsvidhya.com/t/how-to-read-zip-file-directly-in-python/1659/2](https://discuss.analyticsvidhya.com/t/how-to-read-zip-file-directly-in-python/1659/2)
+
+Worked with Marc Toneatto, Matt Slone, Ozgur Akkas to develop hypothesis and complete assignment. Ozgur developed the first hypothesis which we as a group refined to address usage amoung types user types. 
+
+After using the .drop function to remove the unwanted information, we had to assign numerical values to represent the options for 'usertype' so that they coud be plotted. We assigned 1 for a subscriber and 2 for a customer. I replaced these strings with the determined values using the .replace method following the example I found on Stackoverflow at [http://stackoverflow.com/questions/17142304/replace-string-value-in-entire-dataframe] (http://stackoverflow.com/questions/17142304/replace-string-value-in-entire-dataframe) which was shared while doing group work. I then reviewed the cvs file to determine a line where the response should be 2 for customer and used the .head function to show that line which allowed me to confirm the .replace function worked. We were then able to utilize the code in the example notebook by subing in our data to plot the usage by user type according to the dat of the week. Matt provide the function to change the limit on the y axis to make the plot easier to read.
+
+
 ## Assignment Three - Z-Test Lab
 
 I formulated a null and alternative hypothesis regarding the change in bus commute times. The alternative hypothesis being what I expected to be true and the null hypothesis being the opposite I would try to reject based on further statistical tests.
