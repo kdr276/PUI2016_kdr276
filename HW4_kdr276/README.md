@@ -2,7 +2,7 @@
 
 ## Assignment One - Peer Review
 
-Performed peer review on ____ Citi Bike assignment. Her hypotheis 
+Performed peer review on Ekaterina Levitskaya's Citi Bike assignment. Her hypotheis 
 
 
 ## Assignment Two - Liturature Choices of Statistical Choices
@@ -12,7 +12,7 @@ Performed peer review on ____ Citi Bike assignment. Her hypotheis
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 ANOVA	| 2, types of rats (SHR or WKY) | categorical | 1, route covered to locate food pellets in holeboard| continuous | N/A | N/A | 	Do SHRs show deficits in spatial working memory compared to WKYs | SHRs spatial working memory >= WKYs spatial working memory | 0.05 | [Spatial Memory in Spontaneously Hypertensive Rats (SHR)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074660)|
 |||||||||
-|ANOVA	| 2, types of rats (SHR or WKY) | categorical | 1, route covered to locate food pellets in holeboard| continuous | N/A | N/A | 	Do SHRs show deficits in spatial working memory compared to WKYs | SHRs spatial working memory >= WKYs spatial working memory | 0.05 | [Spatial Memory in Spontaneously Hypertensive Rats (SHR)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074660)|
+|Correlation    | 1, smokeless tobacco | categorical | 1, lifetime psychiatric disorder| continuous | N/A | N/A | 	Is there a correlation between smokeless tobacco and psychiatric disorder | Correlation between smokeless tobacco and psychiatric disorder = 0 | 0.05 | [Psychiatric Correlates of Snuff and Chewing Tobacco Use](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113196)|
 |||||||||
 
 ## Assignment Three - Reproduce the analysis of the Hard to Emplot Program in NY
