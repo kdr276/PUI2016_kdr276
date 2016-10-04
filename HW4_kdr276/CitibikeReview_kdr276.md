@@ -13,7 +13,7 @@ I believe the data processed is what is needed to support the project. I would m
 
 ### Test to Test H0
 
-I suggest performing a t-Test because you a looking to answer the question "Do differences exist between 2 groups on one DV?". In this project, the dichotomous independent variable is gender and the dependent variable is trip ('longer ride' as however defined or amount of time')
+I suggest performing a t-Test because you a looking to answer the question "Do differences exist between 2 groups on one DV?" In this project, the dichotomous independent variable is gender and the dependent variable is trip ('longer ride' as however defined or amount of time').
 
 ### Additional Comments
 
