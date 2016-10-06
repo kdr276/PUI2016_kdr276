@@ -7,6 +7,8 @@ Performed peer review on Ekaterina Levitskaya's Citi Bike assignment and submitt
 
 ## Assignment Two - Liturature Choices of Statistical Choices
 
+Worked will Will Xia to review the articles and discussed the different components of each test described
+
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
@@ -17,8 +19,10 @@ ANOVA	| 2, types of rats (SHR or WKY) | categorical | 1, route covered to locate
 
 ## Assignment Three - Reproduce the Analysis of the Hard to Employ Program in NY
 
+Worked with Will Xia to complete the assignment. Provided most of the code but equally discussed all aspects of the assignment including understanding the chi-squared test and my coding choices
+
 I was unable to download the skeleton notebook into jupyter hub (attempted via wget within command line, received an error in jupyter re: not json file). Provided responses to blank/to do cells within .ipynb uploaded herein. Created a null hypothesis and preformed z test using formulas provided in the example and plugging in the appropriate variables based on the data I was working with. using the z-score table I determined that P was equal to .7995 and plugged the same into the formula created to determine if P < alpha. It was found that it was not and therefore the null hypothesis could not be rejected.
-Following the example of the contingency table I created one for the question regarding recidivism. Using the formulas in the example I plugged in the values specific to recidivism. Using the chi-squared distribution table I determined that based on the degrees of freedom (1) and the minimum chi-squared significant value for alpha = 0.05 the null hypothesis could not be rejected. Results were found to fall between the critical values of .5 and .25 so no statistical significance could be identified. 
+Following the example of the contingency table I created one for the question regarding recidivism. Using the formulas in the example I plugged in the values specific to recidivism. Using the chi-squared distribution table it was determined that based on the degrees of freedom (1) and the minimum chi-squared significant value for alpha = 0.05 the null hypothesis could not be rejected. Results were found to fall between the critical values of .5 and .25 so no statistical significance could be identified. 
 
 ## Assignment Four - Tests of Correlation Using the Scipy Package with Citi Bike Data
 
