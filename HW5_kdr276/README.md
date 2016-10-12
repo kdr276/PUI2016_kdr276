@@ -2,7 +2,7 @@
 
 ## Assignment One - Goodness of Fit Tests
 
-I chose to use the Citi Bike data from 01/2015 and opened the csv file in the notebook with the same method as in the last two weeks (https://discuss.analyticsvidhya.com/t/how-to-read-zip-file-directly-in-python/1659/2)[(https://discuss.analyticsvidhya.com/t/how-to-read-zip-file-directly-in-python/1659/2]. Created a new column variable of age by subtracting the year the data was obtained (2015) from the birth year recorded for each subscriber ride - note: year of birth not recorded for 'user' rides.
+I chose to use the Citi Bike data from 01/2015 and opened the csv file in the notebook with the same method as in the last two weeks (https://discuss.analyticsvidhya.com/t/how-to-read-zip-file-directly-in-python/1659/2). Created a new column variable of age by subtracting the year the data was obtained (2015) from the birth year recorded for each subscriber ride - note: year of birth not recorded for 'user' rides.
 Distribution of sample data reported a mean of 40. A histogram shows the data moving towards a normal distribution. 
 Shared my notebook with group members Matt Slone, Will Xia, Marc Toneatto, and Ozgur Akkas for assistance in performing the second KS test with a different distribution than normal. Matt provided assistance in advising that the logistic distribution worked without having to provide any other arguments, which is also the distribution I chose for my second type of test, AD.
 
