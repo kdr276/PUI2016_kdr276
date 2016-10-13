@@ -23,12 +23,13 @@ Shared with homework group my line of code to make the legends fit better within
 1.) The group of participants on a diet will lose more or the same amount of fat as the group of participants on an exercise regime 
 H0: P(diet) > or = P(exercise)
 
-2.) The percentage of Americans polled by Newsweek in 2016 will respond "yes" when asked if they trust the president will be more or equal to the percentage of Americans polled by Newsweek in 1994 that responded "yes" when asked if they trsut the president
+2.) The percentage of Americans polled by Newsweek in 2016 will respond "yes" when asked if they trust the president will be more or equal to the percentage of Americans polled by Newsweek in 1994 that responded "yes" when asked if they trust the president
 H0: P(2016) > or = P(1994)
 H0: P(20016) > or = 45%"
 
-3.) Rate of smoking cessation for participants assigned to a nicotene patch is less than or equal to the rate of smoking cessation for participants assigned to a placebo patch
-H0: P(nicotene) < or = P(placebo)
+3.) Rate of smoking cessation for participants assigned to a nicotine patch is less than or equal to the rate of smoking cessation for participants assigned to a placebo patch
+H0: P(nicotine) < or = P(placebo)
 
-4.)The IQ of children ages 1-4 with mothers that smoked while pregnant is higher or equal to the IQ of children ages 1-4 with mothers that did not smoke while pregnant
+4.) The IQ of children ages 1-4 with mothers that smoked while pregnant is higher or equal to the IQ of children ages 1-4 with mothers that did not smoke while pregnant
 H0: P(smoke) > or = P(nonsmoke)
+
