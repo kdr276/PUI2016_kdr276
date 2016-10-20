@@ -17,4 +17,4 @@ Referenced code Will Xia worked with Yao Wang on. Our homework group discussed t
 
 ## Assignment Two - Complete Citi Bike Mini Project
 
-Recreated Assignment 2 from Week 3 Citi Bike project. Downloaded data to PUIdata correctly but did not perform analysis, should have done a Z-test on the data.
+Recreated Assignment 2 from Week 3 Citi Bike project to downloaded data to PUIdata correctly. Marc took the lead on writing the report and we worked as a group to review and confrim the final version. Article found on Authorea at the following link: (https://www.authorea.com/users/106219/articles/134338/_show_article?access_token=8Nww4GhkDJi3rmQq1Ec2pw)
