@@ -2,7 +2,7 @@
 
 ## Assignment One - Time Series Analysis:
 
-Worked with homework group Marc Toneatto, Matt Sloane, Ozgur Akkas
+Worked with homework group Marc Toneatto, Matt Sloane, Ozgur Akkas, and Will Xia
 
 Downloaded a copy of the .npy file into my directory to be able to open it and proceeded to replace the -1 values with NaN. Due to this future use of functions for meana nd standard deviation will be numpy.nan___ (sum, mean, etc) to account for these values
 
