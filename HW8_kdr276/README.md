@@ -9,6 +9,6 @@ Performed peer review of plots for Cai Yue and Zhu Jianghoa. Provided reviews in
 
 Worked with homework group Matt Sloane, Will Xia, Marc Toneatto, Ozgur Akkas.
 
-Followed directions from lab assignment identifying the community board variables in the multiple data sets. Matt developed the for loop used to remove implausible districts in the 311 call data. Decided to look at demographic information regarding language spoken.  
+Followed directions from lab assignment identifying the community board variables in the multiple data sets. Matt developed the for loop used to remove implausible districts in the 311 call data and the process to merge the datasets. Merged datasets on the community district field and produced final merged set with cd_id field (i.e BX12) 
 
 Used information found at (http://www.datacarpentry.org/python-ecology-lesson/02-index-slice-subset) to aggregate and sum columns I determined to represent 'low' and 'high' internet connection types'
